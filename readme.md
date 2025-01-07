@@ -103,7 +103,11 @@ Para criar uma nova branch e trabalhar nela, siga as etapas abaixo:
    ```bash
    git puull
    ```
-
+## BAIXAR REPOSITÓRIO DE OUTRAS PESSOAS
+1. Substitua o link e dê o comando git clone
+   ```bash
+   git clone <link>
+   ```
 ## Observações
 
 - **Não esqueça de substituir `<link>` pelo link do repositório remoto ao executar o comando `git remote add origin`.**
