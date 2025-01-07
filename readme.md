@@ -13,5 +13,8 @@ git push origin main
 
 CRIANDO UMA BRANCH
 
-git checkout -b "testes"
-
+1 git checkout -b "testes"
+2 git status
+3 git add .
+4 git commit -m "commit"
+5 git push origin testes
