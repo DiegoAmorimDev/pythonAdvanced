@@ -24,3 +24,11 @@ O objetivo principal deste repositório é consolidar o aprendizado em Python, d
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+2. Instale a extensão "Jupiter" no seu vs code.
+
+3. Abra o arquivo "estudos.ipynb" e faça a leitura do conteúdo.
+
+4. Se preferível, leia o ebook.
+
+5. Faça as questões e resoluções, focando na prática.
