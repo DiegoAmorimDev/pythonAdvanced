@@ -6,7 +6,7 @@ while True:
     if nome.lower() == 'sair':
         break
 
-    cod = input('digite o numero de dois digitos do candidato: {nome} ')
+    cod = input('digite o numero de dois digitos do candidato: ')
 
     if cod.isdigit():
         cod = int(cod)
@@ -14,7 +14,7 @@ while True:
     else:
         print('código inválido:')
 
-    print('candidato {nome} de código {cod} adicionado')
+    print('candidato adicionado!')
 
 print(f'candidatos cadastrados: ')
 for nome, cod in lista_candidatos.items():
