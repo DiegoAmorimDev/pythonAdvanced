@@ -1,6 +1,6 @@
 # Resumo de Python 🐍
 
-Este repositório contém um resumo prático sobre Python, abordando os principais conceitos e fundamentos da linguagem. Ele foi criado para servir como referência de estudos e consulta rápida, especialmente para iniciantes ou para quem deseja revisar conteúdos básicos e intermediários.
+Este repositório contém um resumo prático sobre Python, baseado no ebook do curso de Python da IFMG, abordando os principais conceitos e fundamentos da linguagem. Ele foi criado para servir como referência de estudos e consulta rápida, especialmente para iniciantes ou para quem deseja revisar conteúdos básicos e intermediários.
 
 ## 📚 Assuntos Abordados
 
